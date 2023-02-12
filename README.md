@@ -34,7 +34,7 @@ Creat `.env` file in the project folder.
 Example :
 
 ```
-DB_NAME='ecommerce_db'
+DB_NAME='tech_db'
 DB_USER='root'
 DB_PASSWORD=''
 ```
