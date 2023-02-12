@@ -9,7 +9,7 @@
 
 ## Description
 
-It's a .....
+It's a tool with SQL database to write onle blog, you can also sigin your own account.
 
 ## Installation
 
@@ -43,7 +43,7 @@ DB_PASSWORD=''
 
 ## Usage
 
-Check how to use by [Walkthrough Video](https://watch.screencastify.com/).
+Check how to use by [Walkthrough Video](https://watch.screencastify.com/v/MiWJPcURNTZqyFhq351g).
 
 ## License
 
